@@ -1,5 +1,5 @@
 function cheer (num) {
-    console.log("ondřej");
+    console.log(`Greeting for the ${num}`);
 }
   
 
