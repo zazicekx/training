@@ -1,1 +1,5 @@
-console.log("Ondřej");
+function cheer (num) {
+    console.log("ondřej");
+}
+  
+
