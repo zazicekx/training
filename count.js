@@ -1,5 +1,7 @@
 'use strict'
 
-function count(age) {
-    console.log(age);
+function count(month) {
+    console.log(month);
 };
+
+count(07);
