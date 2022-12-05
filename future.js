@@ -1,3 +1,3 @@
-const future = (sign) => {
-  console.log(sign);
+const future = () => {
+  console.log("dog");
 };
