@@ -1,3 +1,4 @@
-function cheer() {
-  console.log("Java Script");
+function cheer(teamName, teamMembers) {
+  console.log(teamName);
+  console.log(teamMembers);
 }
