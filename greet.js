@@ -1,3 +1,4 @@
-function cheer(num) {
-  console.log("ondřej");
+function cheer(fName,surName) {
+  console.log(fName);
+  console.log(surName);
 }
