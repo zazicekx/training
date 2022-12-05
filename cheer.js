@@ -1,3 +1,3 @@
-function cheer() {
-  console.log("Java Script");
+function cheer(parameter) {
+  console.log(`Cheer for the ${parameter}`);
 }
