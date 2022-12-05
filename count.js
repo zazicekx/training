@@ -1,7 +1,7 @@
 'use strict'
 
-function count(month) {
-    console.log(month);
+function count(month, secondParam) {
+    console.log(month, secondParam);
 };
 
 count(07);
