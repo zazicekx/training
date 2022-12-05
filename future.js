@@ -1,3 +1,3 @@
-const future = (dog) => {
-  console.log(`Your future looks ${dog}`);
+const future = (sign, date) => {
+  console.log(sign, date);
 };
