@@ -1,3 +1,3 @@
 function cheer () {
-    console.log("Team bukefalus");
+    console.log("Java Script");
 }
