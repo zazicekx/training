@@ -1,5 +1,5 @@
 'use strict'
 
-function count() {
-    console.log(27);
+function count(age) {
+    console.log(age);
 };
